@@ -1,5 +1,5 @@
 # llama-index-podcast-sample
-### First, add your OPENAI_API_KEY .env
+### First, add your OPENAI_API_KEY to .env
 ```
 virtualenv venv --python=python3.10
 source venv/bin/activate
